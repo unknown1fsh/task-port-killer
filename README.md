@@ -6,6 +6,8 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/78eaf0fe-6ba2-48b6-b436-4f82c5b9307c)
+
 ## 📋 Features | Özellikler
 
 - 🔥 Kill a running process by PID.  
